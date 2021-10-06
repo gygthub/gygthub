@@ -1,4 +1,4 @@
-### Hi, i am Youness Gmar 👋 https://www.linkedin.com/in/youness-gmar/
+### Hi, i am Youness Gmar 👋 
 
 energetic DevOps Engineer passionate about not only CI/CD great software, but maintain infrastructure and optimize performance .
 Confident about my ability to come up with innovative ideas to achieve the perfect outcome .  Try me :
@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 🔭 I’m focusing on [Azure](https://azure.microsoft.com/en-us/) and [AWS](https://aws.amazon.com/?nc1=h_ls) and trying to become a Senior DevOps Engineer
 - 🌱 I also have a solid knowledge in [Python](https://www.python.org/) 
 - 🎓 I Studied at  International Institute of Technology [IIT](https://iit.tn/) 
-- 📫 How to reach me: younessgmarr@gmail.com 
+- 📫 How to reach me: 
+###                   younessgmarr@gmail.com 
+###                   www.linkedin.com/in/youness-gmar/
  
 
 ### Languages and Tools:
