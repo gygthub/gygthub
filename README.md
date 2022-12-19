@@ -1,4 +1,4 @@
-### Hi, i am Youness Gmar 👋 
+### Hi, i am Younes Gmar 👋 
 
 energetic DevOps Engineer passionate about not only CI/CD great software, but maintain infrastructure and optimize performance .
 Confident about my ability to come up with innovative ideas to achieve the perfect outcome .  Try me :)
